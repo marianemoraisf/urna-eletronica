@@ -16,7 +16,8 @@ candidatos: [ {
                 partido: 'PCdoB',
             },
         ]
-    },
+    }
+    
     {
         titulo: 'PREFEITO', numeros: 2,
         candidatos: [
