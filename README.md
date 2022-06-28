@@ -4,9 +4,8 @@ Projeto realizado a fim de colocar em prática os estudos em JavaScript, nele fo
 
 Opções de votos:
 
-{
-        titulo: 'VEREADOR', numeros: 5,
-        candidatos: [ {
+titulo: 'VEREADOR', numeros: 5,
+candidatos: [ {
                 numero: '38111',
                 nome: 'José da Silva',
                 partido: 'PSDB',
@@ -17,11 +16,10 @@ Opções de votos:
                 partido: 'PCdoB',
             },
         ]
-    }
+  
     
-    {
-        titulo: 'PREFEITO', numeros: 2,
-        candidatos: [
+titulo: 'PREFEITO', numeros: 2,
+candidatos: [
             {
                 numero: '22',
                 nome: 'Marco Pereira',
